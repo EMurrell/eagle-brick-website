@@ -68,7 +68,7 @@ export default function Nav() {
         <AnimatePresence>
           {open && (
             <motion.aside
-              className="fixed top-0 right-0 h-screen bg-black md:hidden overflow"
+              className="fixed top-0 right-0 h-screen bg-gray-900 md:hidden overflow"
               initial={{ width: 0 }}
               transition={{ type: "tween" }}
               animate={{
