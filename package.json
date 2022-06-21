@@ -11,6 +11,8 @@
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@icons-pack/react-simple-icons": "^4.6.1",
+    "embla-carousel-autoplay": "^6.2.0",
+    "embla-carousel-react": "^6.2.0",
     "fibers": "5.0.1",
     "framer-motion": "^6.2.9",
     "hamburger-react": "^2.5.0",

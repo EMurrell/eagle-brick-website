@@ -4,9 +4,6 @@ import Link from "next/link";
 export default function Header() {
   return (
     <section className="flex flex-col justify-center w-full h-screen px-6 font-serif tracking-wider text-white bg-fixed bg-cover shadow-xl scroll-smooth bg-hero bg-norepeat md:px-16 lg:px-32">
-      {/* <div className="flex mx-auto">
-        <Image src="/logo-sq.png" alt="logo" height={500} width={500} />
-      </div> */}
       <div className="flex flex-col self-center justify-center p-6 md:mt-4 max-w-max">
         <Image
           src="/eagle-png-2.png"
