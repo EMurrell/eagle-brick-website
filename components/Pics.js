@@ -19,8 +19,8 @@ export default function Work() {
 
   return (
     <section className="flex flex-col w-full py-2 overflow-hidden md:pb-4 bg-blueprint font-display text-neutral-900">
-      <div className="flex flex-row justify-center py-2 mx-auto md:px-24 w-max">
-        <div className="flex flex-row justify-center my-4">
+      <div className="flex flex-col justify-center py-4 mx-auto md:px-24 w-max">
+        <div className="flex flex-row justify-center my-2">
           <button onClick={scrollPrev}>
             <ChevronLeftIcon className="w-10 h-10 mx-4 text-white bg-black" />
           </button>
@@ -31,6 +31,9 @@ export default function Work() {
             <ChevronRightIcon className="w-10 h-10 mx-4 text-white bg-black" />
           </button>
         </div>
+        <p className="text-lg font-semibold text-center md:text-xl lg:text-2xl">
+          Explore Our Recent Projects
+        </p>
       </div>
 
       <div className="flex overflow-hidden" ref={emblaRef}>

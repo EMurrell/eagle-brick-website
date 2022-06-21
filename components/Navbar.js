@@ -45,7 +45,7 @@ export default function Nav() {
       <div
         className={`flex w-screen py-4  bg-transparent   ${
           animateNav &&
-          "py-0 backdrop-blur-sm  bg-black  trasition ease-in-out duration-500"
+          "py-0 backdrop-blur-sm  bg-black/60  trasition ease-in-out duration-500"
         } mx-auto   justify-between   `}
       >
         <div className="">
@@ -57,7 +57,7 @@ export default function Nav() {
                 height={200}
                 width={300}
               /> */}
-              <p className="m-4 font-sans text-2xl font-semibold text-center border-4 border-white cursor-pointer md:m-6 lg:m-8 lg:ml-24 md:text-3xl lg:text-4xl">
+              <p className="px-1 m-4 font-sans text-2xl font-medium text-center border-2 border-white cursor-pointer md:m-6 lg:m-8 lg:ml-24 md:text-3xl lg:text-4xl">
                 EBM
               </p>
             </a>

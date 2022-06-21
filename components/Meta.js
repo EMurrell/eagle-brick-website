@@ -6,7 +6,7 @@ export default function Meta() {
     <Head>
       <title>Eagle Brick & Masonry</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      <meta name="description" content="Your Brick Tinting Specialists." />
+      <meta name="description" content="Brick Restoration." />
       <meta property="og:image" content=".jpg" />
       <meta property="og:title" content="" />
       <meta property="og:description" content="" />
