@@ -9,7 +9,7 @@ export default function Contact() {
   return (
     <footer
       id="Contact"
-      className="flex flex-col justify-center h-screen px-8 pt-6 font-sans bg-black md:px-24 lg:px-52 text-neutral-100 "
+      className="flex flex-col justify-center h-screen px-8 pt-6 font-sans bg-gray-900 md:px-24 lg:px-52 text-neutral-100 "
     >
       <div className="flex flex-col py-20 2xl:py-20 lg:flex-row ">
         <div className="flex flex-col">

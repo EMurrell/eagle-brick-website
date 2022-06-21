@@ -10,8 +10,8 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        hero: "url('/black-bricks.jpg')",
-        quote: "url('/bgbricks.jpg')",
+        hero: "url('/black-bricks2.jpg')",
+        quote: "url('/bgbricks-blue.jpg')",
       },
       colors: {
         highlight1: "#138BC5",
