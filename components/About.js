@@ -11,7 +11,7 @@ export default function About() {
         With Creative Options
       </h3>
 
-      <div className="flex self-center w-32 border-t-2 border-black"></div>
+      <div className="flex self-center w-32 border-t-2 border-gray-800"></div>
 
       <div className="flex flex-col justify-center py-6 text-lg text-center md:text-xl lg:text-2xl">
         <p className="py-3 font-semibold">Over 20 Years Experience</p>
@@ -19,7 +19,7 @@ export default function About() {
         <p className="py-3 font-semibold">Family Owned and Operated</p>
 
         <p className="pt-3 pb-8 font-semibold ">Fully Licensed and Insured</p>
-        <div className="flex self-center w-32 border-t-2 border-black"></div>
+        <div className="flex self-center w-32 border-t-2 border-gray-800"></div>
 
         <p className="pt-6 pb-8 md:px-24 lg:px-54 xl:px-64">
           We specialize in the rehabilitation of brick structures older than two
