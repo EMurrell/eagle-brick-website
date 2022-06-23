@@ -22,13 +22,13 @@ export default function Work() {
       <div className="flex flex-col justify-center py-4 mx-auto md:px-24 w-max">
         <div className="flex flex-row justify-center my-2">
           <button onClick={scrollPrev}>
-            <ChevronLeftIcon className="w-10 h-10 mx-4 text-white bg-blue-900" />
+            <ChevronLeftIcon className="w-10 h-10 mx-4 text-white bg-gray-800" />
           </button>
           <h1 className="font-sans text-3xl font-bold text-center md:text-4xl lg:text-5xl">
             Portfolio
           </h1>
           <button onClick={scrollNext}>
-            <ChevronRightIcon className="w-10 h-10 mx-4 text-white bg-blue-900" />
+            <ChevronRightIcon className="w-10 h-10 mx-4 text-white bg-gray-800" />
           </button>
         </div>
         <p className="text-lg font-semibold text-center md:text-xl lg:text-2xl">
