@@ -7,6 +7,10 @@ export default function Meta() {
       <title>Eagle Brick & Masonry</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       <meta name="description" content="Brick Restoration." />
+      <meta
+        name="google-site-verification"
+        content="in1fNCwqqoR2JFeab1xc_enIWdA8hpBLUCOhHnFCCrc"
+      />
       <meta property="og:image" content=".jpg" />
       <meta property="og:title" content="" />
       <meta property="og:description" content="" />
