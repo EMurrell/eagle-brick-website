@@ -62,8 +62,15 @@ export default function Contact() {
         </div>
       </div>
       <div className="flex flex-col justify-center py-12 text-base text-center border-t border-neutral-200 lg:text-lg text-neutral-400">
-        &copy; {getCurrentYear()} Eagle Brick & Masonry <br />
-        Powered by Trailbridge Web
+        &copy; {getCurrentYear()} Eagle Brick & Masonry <br /> All Right
+        Reserved <br />
+        Website powered by{" "}
+        <a
+          className="italic hover:text-neutral-100"
+          href="https://trailbridgeweb.com"
+        >
+          Trailbridge Web
+        </a>
       </div>
     </footer>
   );
